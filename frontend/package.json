@@ -10,11 +10,13 @@
         "preview": "vite preview"
     },
     "dependencies": {
+        "framer-motion": "^11.0.24",
+        "lucide-react": "^0.363.0",
         "react": "^18.2.0",
         "react-dom": "^18.2.0",
         "react-force-graph": "^1.44.3",
-        "lucide-react": "^0.363.0",
-        "framer-motion": "^11.0.24"
+        "react-force-graph-2d": "^1.29.1",
+        "three": "^0.184.0"
     },
     "devDependencies": {
         "@types/react": "^18.2.66",
